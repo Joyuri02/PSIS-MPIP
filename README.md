@@ -25,3 +25,18 @@ PSIS-MPIP/
 ├── config_poly_group.py  # 多项式组配置
 ├── PSISALL.py            # 核心 PSIS 实现
 └── README.md             # 项目说明
+```
+
+---
+
+## 项目声明
+
+- 本项目的作者及单位：
+- The author and affiliation of this project:
+- 
+```text
+项目名称（Project Name）：PSIS-MPIP
+项目作者（Author）：Xinyue Wang, Xiaotian Wu
+作者单位（Affiliation）：暨南大学信息科学技术学院（School of Information Science and Technology, Jinan University）
+```
+
