@@ -35,8 +35,8 @@ PSIS-MPIP/
 - The author and affiliation of this project:
 - 
 ```text
-项目名称（Project Name）：PSIS-MPIP
-项目作者（Author）：Xinyue Wang, Xiaotian Wu
-作者单位（Affiliation）：暨南大学信息科学技术学院（School of Information Science and Technology, Jinan University）
+- 项目名称（Project Name）：PSIS-MPIP
+- 项目作者（Author）：Xinyue Wang, Xiaotian Wu
+- 作者单位（Affiliation）：暨南大学信息科学技术学院（School of Information Science and Technology, Jinan University）
 ```
 
